@@ -19,16 +19,16 @@
 ---
 
 ### 📊 GitHub Stats
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachinpanchal07&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinpanchal07&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🚀 Featured Projects
-- 🧑‍💻 [**CodeConnect**](https://github.com/YOUR_GITHUB_USERNAME/CodeConnect) — MERN-based social app with chat and payments  
-- 💬 [**ChatApp**](https://github.com/YOUR_GITHUB_USERNAME/ChatApp) — Real-time chat app using Socket.IO  
-- 🌐 [**Portfolio Website**](https://github.com/YOUR_GITHUB_USERNAME/Portfolio) — Built with React and TailwindCSS
+- 🧑‍💻 [**CodeConnect**](https://github.com/Sachinpanchal07/CodeConnect) — MERN-based social app with chat and payments  
+- 💬 [**ChatApp**](https://github.com/Sachinpanchal07/ChatApp) — Real-time chat app using Socket.IO  
+- 🌐 [**Portfolio Website**](https://github.com/Sachinpanchal07/Portfolio) — Built with React and TailwindCSS
 
 ---
 
@@ -60,5 +60,5 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.Sachinpanchal07.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
