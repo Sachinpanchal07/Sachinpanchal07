@@ -18,11 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachinpanchal07&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachinpanchal07&layout=compact&theme=tokyonight)
-
 ---
 
 ### 🚀 Featured Projects
@@ -60,5 +55,4 @@
 
 ---
 
-<img src="https://raw.Sachinpanchal07.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
