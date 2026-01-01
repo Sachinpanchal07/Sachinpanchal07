@@ -1,6 +1,6 @@
 
 
-<!--
+
 **Sachinpanchal07/Sachinpanchal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h2 align="left">## 👋 About Me<br><br>Hi, I'm **Sachin Panchal** — an MCA Final Year student and a passionate **Full Stack Web Developer** who loves building scalable and user-friendly web applications.<br><br>💻 I specialize in the **MERN stack (MongoDB, Express.js, React, Node.js)** and enjoy crafting clean, efficient, and responsive interfaces using **React** and **Tailwind CSS**. <br> <br>Along with development, I actively practice **Data Structures and Algorithms** (solved 280+ problems on LeetCode & GeeksforGeeks) to strengthen my problem-solving skills.<br><br>🚀 I’ve built several projects including **CodeConnect**, a full-stack social platform featuring real-time chat (Socket.IO), OTP authentication, Razorpay payments, and automated Cron jobs.  <br><br>Currently exploring **Next.js** and **system design concepts** to deepen my backend and architecture knowledge.</h2>
 
@@ -52,4 +52,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
